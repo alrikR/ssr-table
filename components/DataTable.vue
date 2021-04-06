@@ -21,7 +21,6 @@
 </template>
 
 <script>
-import { debounce } from '~/assets/js/utility/helpers'
 export default {
   name: 'RsDataTable',
 
